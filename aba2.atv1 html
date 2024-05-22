@@ -1,0 +1,31 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equipe Rocket</title>
+</head>
+<body>
+    <center><h1>Formulário de inscrição</h1></center>
+    <center><label>Nome completo <input type="text"></label> 
+    <br>
+    <br>
+    <label>Data de nascimento <input type="date"></label> 
+    <br>
+    <br>
+    <label>País <input type="text"></label> 
+    <br>
+    <br>
+    <label>Estado <input type="text"></label> 
+    <br>
+    <br>
+    <label>cidade <input type="text"></label> 
+    <br>
+    <br>
+    <label>Motivo de interesse para ingressar na equipe <input type="text"></label> 
+    <br>
+    <br>
+        <button><a href="file:///C:/Users/aluno.sesi.SISTEMAFIEPE/Desktop/EquipeRocket/finalização.html">Finalizar inscrição</a></button>
+    </center>
+
+</body>
+</html>
